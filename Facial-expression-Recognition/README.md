@@ -30,7 +30,9 @@ Dataset used : https://www.kaggle.com/datasets/jonathanoheix/face-expression-rec
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
+
+---
 
 # MODEL TRAINING
 The model was trained using `trainmodel.ipynb` and saved in two parts:
