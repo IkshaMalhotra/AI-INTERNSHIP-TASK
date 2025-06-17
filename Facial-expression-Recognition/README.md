@@ -25,15 +25,6 @@ Dataset used : https://www.kaggle.com/datasets/jonathanoheix/face-expression-rec
 
 ---
 
-## Requirements
-
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt ```
-
----
-
 # MODEL TRAINING
 The model was trained using `trainmodel.ipynb` and saved in two parts:
 
@@ -46,6 +37,15 @@ The current model was trained with limited resources and reached only **~25% acc
 > To achieve reliable predictions, retrain the model using a properly preprocessed dataset and GPU acceleration.  
 > Aim for at least **60–80% accuracy** or higher. Once trained well, `realtimedetection.py` will give correct and consistent predictions.
 
+
+---
+
+## Requirements
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt 
 
 
 
