@@ -1,4 +1,4 @@
-# CODING-SAMURAI-INTERNSHIP-TASK
+# Internship-Tasks
 
 Welcome to the Artificial Intelligence Internship Tasks Repository!
-This repository contains all the tasks and projects completed during my Artificial Intelligence internship at Coding Samurai.
+This repository contains all the tasks and projects completed during an Artificial Intelligence internship.
