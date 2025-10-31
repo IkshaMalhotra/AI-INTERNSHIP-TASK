@@ -31,8 +31,6 @@ The model was trained using `trainmodel.ipynb` and saved in two parts:
 - `emotiondetector.json` — contains the model architecture
 - `emotiondetector.h5` — contains the trained model weights
 
-The current model was trained with limited resources and reached only **~25% accuracy**, primarily due to **lack of GPU** support.
-
 > ⚠️ **Important:**  
 > To achieve reliable predictions, retrain the model using a properly preprocessed dataset and GPU acceleration.  
 > Aim for at least **60–80% accuracy** or higher. Once trained well, `realtimedetection.py` will give correct and consistent predictions.
